@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dawood-altai" alt="dawood-altai" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript,React,C#,Asp.Net,Python, Ms SQL**
+- 🌱 I’m currently learning **Javascript, React, Python**
 
 - 📫 How to reach me **davut.altai@gmail.com**
 
