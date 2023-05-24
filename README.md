@@ -1,4 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dawood</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dawood-altai-31976523a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 <h2>👨🏻‍⚖️ About Me:</h2>
 🌱 I'm currently learning JavaScript frameworks and libraries.<br><br>
 
