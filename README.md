@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/dawood-altai-31976523a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+   <h4>📩davut.altai@gmail.com</h4>
 </p>
 <p text-align="center">
  <h4>📩davut.altai@gmail.com</h4>
