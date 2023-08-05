@@ -7,7 +7,7 @@
 </p>
 
 <h2>👨🏻‍⚖️ About Me:</h2>
-<h5>📩davut.altai@gmail.com</h5>
+<h5 align="center">📩davut.altai@gmail.com</h5>
 
 <p align="justify">🌱A Front-End Web Developer with a background in Electrical & Electronics Engineering. I'm currently learning JavaScript frameworks and libraries. Currently, I am looking for a company or organization where I can do my internship. I want to gain experience in software development, web design. I would like to take this opportunity to improve myself and increase my practical knowledge in the sector.<br><br></p>
 
