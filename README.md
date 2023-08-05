@@ -4,11 +4,12 @@
   <a href="https://www.linkedin.com/in/dawood-altai-31976523a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a><h4>📩davut.altai@gmail.com</h4></a>
 </p>
 
 <h2>👨🏻‍⚖️ About Me:</h2>
-🌱A Front-End Web Developer with a background in Electrical & Electronics Engineering. I'm currently learning JavaScript frameworks and libraries. Currently, I am looking for a company or organization where I can do my internship. I want to gain experience in software development, web design. I would like to take this opportunity to improve myself and increase my practical knowledge in the sector.<br><br>
+<h5>📩davut.altai@gmail.com</h5>
+
+<p align="justify">🌱A Front-End Web Developer with a background in Electrical & Electronics Engineering. I'm currently learning JavaScript frameworks and libraries. Currently, I am looking for a company or organization where I can do my internship. I want to gain experience in software development, web design. I would like to take this opportunity to improve myself and increase my practical knowledge in the sector.<br><br></p>
 
 
 # 💻Languages and Tools:
