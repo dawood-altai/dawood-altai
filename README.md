@@ -6,7 +6,7 @@
   </a>
 </p>
 <p align="center">
- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](davut.altai@gmail.com)
+ <h3>📩davut.altai@gmail.com</h3>
 </p>
 <h2>👨🏻‍⚖️ About Me:</h2>
 🌱 I'm currently learning JavaScript frameworks and libraries.<br><br>
